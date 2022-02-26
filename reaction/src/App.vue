@@ -47,7 +47,7 @@ export default {
   margin-top: 60px;
 }
 button {
-  background: ***REMOVED***;
+  background: #0faf87;
   color: white;
   border: none;
   padding: 8px 16px;
