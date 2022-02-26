@@ -1,2 +1,2 @@
 # reaction_game
-Reaction timer game
+Reaction Timer Game
