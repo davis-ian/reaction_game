@@ -1,1 +1,2 @@
-we: node app.js
+cd reaction
+web: npm start
