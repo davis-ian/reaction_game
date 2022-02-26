@@ -1,2 +1,1 @@
-web: cd reaction
-web: npm start
+web: cd reaction && npm run build
